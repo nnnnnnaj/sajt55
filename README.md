@@ -17,7 +17,7 @@
     </body>
     <border>
         <img slass="profisonal"src="https://img.lovepik.com/png/20231016/red-bow-cat-couple-avatar-sweets-lovers-sweet_225058_wh1200.png" alt="">
-        <h1 style="text-align:center; color:black; font-size:50px">Цікаві факти про котиків</h1>
+        <h1 style="text-align:center; color:black; font-size:55px">Цікаві факти про котиків</h1>
         <p>1.У середньому кішки витрачають дві третини життя на сон. Виходить, що 9-річний кіт не спав лише 3 роки свого життя. Мабуть, тому багато хто мріє стати кішкою</p>
         <img src="https://wl-adme.cf.tsp.li/resize/728x/webp/32d/b61/88092a57fcb60a16517f99e25b.jpg.webp"/>
         <p>2. Виявляється, до нашого мозку біологічно ближче мозок кішки, ніж собаки,В нас з кішками за емоції відповідають ті самі ділянки мозку </p>
